@@ -1,0 +1,12 @@
+VERSION: (GNOME-SHELL) 47.0
+
+RELEASE TIME: Wed Jan 15 03:28:27 AM CST 2025
+
+--->>> GTK | GNOME Shell | Cinnamon | Metacity | XFWM | Plank <<<---
+Color variants   : Dark;Light
+Theme variants   : default
+Opacity variants : normal;solid
+Alt variants     : normal
+Scheme variants  : standard;nord
+Start icon style : apple
+Nautilus style   : stable
